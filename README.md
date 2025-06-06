@@ -20,6 +20,18 @@ python calculator_gui.py
 - Basic operations
 - Clean GUI layout
 - Error handling for invalid input
+## 🧰 Technologies Used
+
+- Python 3.x
+- Tkinter
+
+## 🏷️ GitHub Topics
+
+`python` `tkinter` `calculator` `gui` `beginner-project` `desktop-app`
+
+## 🙋‍♂️ Author
+
+Made with 💙 by [Ujjwal Singh](https://github.com/ujjwalsinghg)
 
 ## 🧠 Skills Demonstrated
 - Tkinter GUI components
