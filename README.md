@@ -21,7 +21,7 @@ python calculator_gui.py
 - Clean GUI layout
 - Error handling for invalid input
 
-   ## 🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 - Tkinter GUI components
 - Event handling
 - String evaluation and error handling
